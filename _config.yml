@@ -48,7 +48,7 @@ code_blocks:
 # 格式:
 #   icon: 链接 || 描述 || 颜色
 social:
-  fab fa-github: https://github.com/NoNormalCreeper || Github || "#hdhfbb"
+  # fab fa-github: https://github.com/NoNormalCreeper || Github || "#hdhfbb"
 
 # --------------------------------------
 # 图片设置
